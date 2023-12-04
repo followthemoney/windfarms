@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+notebooks/wind_replacement.ipynb
 
 # C extensions
 *.so
